@@ -1,2 +1,3 @@
-# digital-signal-processing
-digital-signal-processing
+# Digital Signal Processing
+DSP-Classroom-Assignments
+
