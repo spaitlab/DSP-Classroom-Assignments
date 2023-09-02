@@ -20,5 +20,3 @@
 ![image](https://github.com/spaitlab/DSP-Classroom-Assignments/assets/89621490/9143daec-63cb-4a11-b3fd-de638ff069e5)
 
 创刊：2022.05.22 
-
-
