@@ -16,9 +16,9 @@
 班级：05022102 05022105 \
 上课时间地点：1-16周 星期二 8-10节 文萃楼I502 \
 
-![image](https://github.com/spaitlab/DSP-Classroom-Assignments/assets/89621490/219a27e3-5fea-4c12-b0e8-5d08d3123a9f)
+![image](https://github.com/spaitlab/DSP-Classroom-Assignments/assets/89621490/40c75715-0c07-4fa7-a8eb-631c7edfc844)
+![image](https://github.com/spaitlab/DSP-Classroom-Assignments/assets/89621490/9143daec-63cb-4a11-b3fd-de638ff069e5)
 
-
-创刊：2022.05.22 \
+创刊：2022.05.22 
 
 
